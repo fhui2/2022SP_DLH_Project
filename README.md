@@ -14,14 +14,6 @@ The simulation data used in the experiment can be download from the section of '
 
 To evalute our model on Google Colab, you may run our program from Google Colab -DLH_Project(Paper_232).ipynb. 
 
-## Evaluation
-
-TODO
-
-## Pre-trained Models
-
-TODO
-
 ## Results
 
 TODO
