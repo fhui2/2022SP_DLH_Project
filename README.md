@@ -12,7 +12,9 @@ The simulation data used in the experiment can be download from the section of '
 
 ## Training & Evaluation
 
-To evalute our model on Google Colab, you may run our program from Google Colab -DLH_Project(Paper_232).ipynb. 
+To evalute our model on Google Colab, you may run our program from DLH_Project(Paper_232).ipynb via the Google Colab. 
+
+CONTENT_theano.ipynb is our first attempt to reproduce the experiment with the libraries of Theano that is no longer supported by the developers.
 
 ## Results
 
