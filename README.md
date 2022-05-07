@@ -20,4 +20,10 @@ TODO
 
 ## Contributing
 
-The authors of the original paper - Readmission prediction via deep contextual embedding of clinical concepts, are Cao Xiao, Tengfei Ma, Adji B. Dieng, David M. Blei, Fei Wang.
+Citation: Xiao C, Ma T, Dieng AB, Blei DM, Wang F (2018) Readmission prediction via deep contextual embedding of clinical concepts. PLoS ONE 13(4): e0195024. https://doi.org/10.1371/journal.pone.0195024
+
+Editor: Chenping Hou, National University of Defense Technology, CHINA
+
+Published: April 9, 2018
+
+Data Availability: All relevant data are within the paper, its Supporting Information files, and GitHub. Code and additional data can be accessed at https://github.com/danicaxiao/CONTENT.
