@@ -9,14 +9,16 @@ Group members: Christopher Wong , Franco Hui
 
 This project is executed via Google Colab.
 
+Successful implementation cab be found in DLH_Project(Paper_232).ipynb
+
+CONTENT_theano.ipynb is our first attempt to reproduce the experiment with the libraries of Theano that is no longer supported by the developers. We uploaded it just for reference to our first failed attempt.
+
 The simulation data used in the experiment can be download from the section of 'Supporting Information' of authors' publication page at https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195024#sec022
 
 
 ## Training & Evaluation
 
-To evalute our model on Google Colab, you may run our program from DLH_Project(Paper_232).ipynb via the Google Colab. 
-
-CONTENT_theano.ipynb is our first attempt to reproduce the experiment with the libraries of Theano that is no longer supported by the developers.
+To evalute our model, you may run our program from DLH_Project(Paper_232).ipynb via the Google Colab. 
 
 ## Results
 
