@@ -18,7 +18,14 @@ CONTENT_theano.ipynb is our first attempt to reproduce the experiment with the l
 
 ## Results
 
-TODO
+CONTENT model
+
+![result_content](https://user-images.githubusercontent.com/103898400/167280372-44ff84c3-7fde-4b2c-bc8a-2fec4ad8f3fc.PNG)
+
+PROPOSED model
+
+![result_proposed](https://user-images.githubusercontent.com/103898400/167280385-df0a7962-e797-4c5c-84bb-43676140aacb.PNG)
+
 
 ## Contributing
 
